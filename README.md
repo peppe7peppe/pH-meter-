@@ -1,6 +1,6 @@
 0# Thinkercad mall for pH & esp8266: https://www.tinkercad.com/things/gQpersw5VCl
-
-01# Thinkercad mall for only for pH(this one is working for simulation) : https://www.tinkercad.com/things/lEHVb7Jbkhr
+ 
+01# Thinkercad mall for only pH (this one is working for simulation) : https://www.tinkercad.com/things/lEHVb7Jbkhr
 
 02# Visualized data in thinkspeak: https://thingspeak.com/channels/1355218/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15
 
