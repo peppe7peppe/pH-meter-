@@ -6,7 +6,7 @@
 #define TX 9
 String AP = "";       // AP NAME 
 String PASS = ""; // AP PASSWORD
-String API =  "J3HKE4W3QN3UQ2VT";   // Write API KEY
+String API =  "";   // Write API KEY
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 String field = "field1";
